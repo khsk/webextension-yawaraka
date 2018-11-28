@@ -1,0 +1,2 @@
+# webextension-yawaraka
+テキストの長音をページ読み込み完了時に小文字に変換する拡張
